@@ -1,0 +1,7677 @@
+[
+  {
+    "YEAR": 1992,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 1
+  },
+  {
+    "YEAR": 1992,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 56
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 8
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 155
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 15
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 271
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 4
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 3
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 23
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 35
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 36
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 4
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 37
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 34
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 53
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 95
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 8
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 15
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 7
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 15
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 162
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 7
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 7
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 7
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 81
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 105
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 3
+  },
+  {
+    "YEAR": 1993,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 2
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 182
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 113
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 38
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 443
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 96
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 79
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 187
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 79
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 37
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 390
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 119
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 26
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 104
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 207
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 98
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 130
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 276
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 61
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 84
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 23
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 43
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 8
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 48
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 138
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 131
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 242
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 45
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 69
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 176
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 38
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 26
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 38
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 89
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 86
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 34
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 135
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 229
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 1994,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 23
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 286
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 125
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 167
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 372
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 104
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 22
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 137
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 469
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 163
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 1
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 423
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 545
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 140
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 54
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 57
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 71
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 141
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 40
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 206
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 235
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 350
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 107
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 245
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 7
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 34
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 132
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 37
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 399
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 458
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 180
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 312
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 2
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 184
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 96
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 104
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 82
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 243
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 222
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 85
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 154
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 422
+  },
+  {
+    "YEAR": 1995,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 500
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 134
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 50
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 862
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 55
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 111
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 145
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 156
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 212
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 911
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 279
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 35
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 110
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 333
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 135
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 170
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 136
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 287
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 515
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 113
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 64
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 134
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 279
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 136
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 12
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 322
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 65
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 35
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1317
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 512
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 8
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 238
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 191
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 80
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 119
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 2
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 72
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 628
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 12
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 215
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 57
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 149
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 457
+  },
+  {
+    "YEAR": 1996,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 47
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 8
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 488
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 156
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 65
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1017
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 161
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 70
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 216
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 469
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 486
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 32
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 130
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 1086
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 174
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 142
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 39
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 26
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 199
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 110
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 159
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 169
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 392
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 196
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 268
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 1
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 100
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 65
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 603
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 4
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 111
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1130
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 461
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 105
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 148
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 485
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 35
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 211
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 124
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 82
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 155
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 4
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 88
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 22
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 529
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 228
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 1997,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 82
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 115
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 525
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 216
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 112
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1848
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 169
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 82
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 695
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 1327
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 33
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 775
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 793
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 250
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 40
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 348
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 468
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 333
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 487
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 67
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 299
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 385
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 343
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 55
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 393
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 130
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 38
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 211
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 8
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 266
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 856
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 330
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 78
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 189
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 647
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 71
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 66
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 59
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 544
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 1001
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 84
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 103
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 263
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 454
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 1
+  },
+  {
+    "YEAR": 1998,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 70
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 117
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 493
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 228
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 320
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 2560
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 369
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 212
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 90
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 768
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 380
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 472
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 288
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 997
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 467
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 58
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 139
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 243
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 1094
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 659
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 84
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 342
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 1146
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 432
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 61
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 440
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 181
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 429
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 38
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 255
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 298
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1325
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 1571
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 275
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 217
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 1309
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 147
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 110
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 236
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 260
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 265
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 1309
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 27
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 79
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 47
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 417
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 465
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 37
+  },
+  {
+    "YEAR": 1999,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 52
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 703
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 210
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 231
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 2156
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 199
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 148
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 535
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 790
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 592
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 439
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 482
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 191
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 93
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 254
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 413
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 292
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 45
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 326
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 517
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 287
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 52
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 72
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 103
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 31
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 116
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 218
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 92
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 275
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 542
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 813
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 107
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 130
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 682
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 373
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 32
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 71
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 194
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 958
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 32
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 416
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 45
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 951
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 179
+  },
+  {
+    "YEAR": 2000,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 4
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 684
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 98
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 261
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 2124
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 220
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 339
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 3
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 714
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 891
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 242
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 496
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 52
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 635
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 337
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 163
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 221
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 51
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 1725
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 249
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 1018
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 608
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 317
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 152
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 355
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 127
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 134
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 125
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 645
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 137
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1726
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 1011
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 150
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 261
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 953
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 410
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 48
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 250
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 737
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 81
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 147
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "VI",
+    "TOTAL_HOME_UNITS": 2
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 259
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 626
+  },
+  {
+    "YEAR": 2001,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 106
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 422
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 98
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 217
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 2364
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 623
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 140
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 274
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 277
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 281
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 33
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 544
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 613
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 31
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 204
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 176
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 340
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 237
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 620
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 560
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 789
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 141
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 132
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 780
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 67
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 12
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 300
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 8
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 183
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 822
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 951
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 192
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 964
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 77
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 81
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 106
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 1186
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 109
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 153
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 377
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2002,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 411
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 139
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 199
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1835
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 212
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 62
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 889
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 787
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 885
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 141
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 1722
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 361
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 49
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 98
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 474
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 771
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 225
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 33
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 295
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 604
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 436
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 70
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 36
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 212
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 48
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 34
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 137
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 220
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 263
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1202
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 534
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 137
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 100
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 1021
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 53
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 198
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 126
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 184
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 1079
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 427
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 23
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 492
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 440
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2003,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 515
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 12
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 207
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1930
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 241
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 183
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 74
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 174
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 885
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 585
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 57
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 1759
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 616
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 201
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 605
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 288
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 34
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 598
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 344
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 556
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 80
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 118
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 533
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 61
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 494
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 196
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1663
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 804
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 159
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 664
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 3
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 76
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 142
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 148
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 260
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 551
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 84
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 105
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 585
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 351
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 54
+  },
+  {
+    "YEAR": 2004,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 12
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 384
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 66
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 287
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 2938
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 72
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 1159
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 186
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 696
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 399
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 147
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 329
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 85
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 2372
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 656
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 47
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 304
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 686
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 812
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 435
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 70
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 1104
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 477
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 302
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 132
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 516
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 43
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 33
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 61
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 865
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 88
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 507
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1613
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 1812
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 418
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 148
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 1186
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 91
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 583
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 65
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 192
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 750
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 178
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 356
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 47
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 514
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 335
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 99
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 51
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 681
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 106
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 149
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 2669
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 447
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 135
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 127
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 2064
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 322
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 80
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 400
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 1548
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 869
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 39
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 509
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 2184
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 834
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 199
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 1603
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 589
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 233
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 141
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 833
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 37
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 119
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 1285
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 58
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 111
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 4507
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 2941
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 178
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 238
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 864
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 95
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 533
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 147
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 362
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 1499
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 103
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 231
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 151
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 715
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 434
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2006,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 26
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 871
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 174
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 51
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1795
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 500
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 457
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 82
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 15
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 525
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 774
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 82
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 354
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 47
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 1801
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 335
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 56
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 194
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 881
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 952
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 88
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 99
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 995
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 475
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 254
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 58
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 156
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 1059
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 93
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 107
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 829
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 112
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 203
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 2244
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 726
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 103
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 84
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 1047
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 137
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 103
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 548
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 79
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 240
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 1318
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 138
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 957
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 23
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 238
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 196
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 132
+  },
+  {
+    "YEAR": 2007,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 15
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 4
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 511
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 105
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 98
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 4813
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 368
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 216
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 428
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 839
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 851
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 53
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 236
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 1413
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 256
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 41
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 467
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 145
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 762
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 862
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 69
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 980
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 739
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 363
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 52
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 105
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 501
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 111
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 100
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 397
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 42
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 91
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1743
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 1067
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 48
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 157
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 1065
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 156
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 261
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 56
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 176
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 527
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 303
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 587
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 575
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 241
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 64
+  },
+  {
+    "YEAR": 2008,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 514
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 170
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 219
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 3079
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 254
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 604
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 39
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 1154
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 575
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 363
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 477
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 217
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 61
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 109
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 158
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 737
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 235
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 441
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 489
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 151
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 50
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 655
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 83
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 139
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 270
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 77
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 63
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 2061
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 1025
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 51
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 277
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 615
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 19
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 48
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 287
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 62
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 137
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 1063
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 131
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 418
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 54
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 145
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 170
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2009,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 22
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 421
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 53
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 256
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 3176
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 231
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 397
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 710
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 615
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 771
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 102
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 1546
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 163
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 19
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 181
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 297
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 428
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 748
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 57
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 333
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 387
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 170
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 73
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 488
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 309
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 109
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1895
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 1012
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 39
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 162
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 1492
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 5
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 75
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 157
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 112
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 317
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 2279
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 80
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 460
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 71
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 230
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 240
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2010,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 43
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 239
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 786
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 1578
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 852
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 2524
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 374
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 235
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 76
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 52
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 1103
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 474
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 512
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 455
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 259
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 1962
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 1056
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 163
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 769
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 595
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 1269
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 251
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 3
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 775
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 502
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 1046
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 49
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 442
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 183
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 1141
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 79
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 143
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 3466
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 1389
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 329
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 189
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 1620
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 39
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 130
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 602
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 122
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 179
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 5911
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 436
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 620
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 65
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 296
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 1214
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 2011,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 54
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 32
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 571
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 109
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 500
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 3960
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 625
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 273
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 218
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 27
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 2937
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 1442
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 184
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 1636
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 413
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 161
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 1326
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 1349
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 1647
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 103
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 625
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 1235
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 720
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 1
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 51
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 1629
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 95
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 394
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 102
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 1034
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 639
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 342
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 4535
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 887
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 435
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 679
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 1417
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 172
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 90
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 267
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 124
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 3060
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 1877
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 99
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 1127
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 143
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 738
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 604
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 708
+  },
+  {
+    "YEAR": 2012,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 41
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 443
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 31
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 188
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 4650
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 776
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 83
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 187
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 711
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 280
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 174
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 121
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 811
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 372
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 2
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 77
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 1786
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 711
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 504
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 119
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 3216
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 256
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 105
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 892
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 122
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 260
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 157
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 315
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 77
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 80
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 2429
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 1208
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 256
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 177
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 758
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 165
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 389
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 241
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 206
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 164
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 760
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 302
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 1205
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 110
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 330
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 240
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2013,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 3
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 360
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 72
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 217
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 3453
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 169
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 742
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 61
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 1363
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 393
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 116
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 35
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 132
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 398
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 48
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 234
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 565
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 458
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 23
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 818
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 177
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 167
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 22
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 410
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 69
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 364
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 91
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1387
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 510
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 180
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 338
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 688
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 110
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 56
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 254
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 198
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 775
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 54
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 240
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 39
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 121
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 112
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 32
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 42
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 250
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 174
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 137
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1475
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 121
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 104
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 332
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 15
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 475
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 416
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 26
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 251
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 686
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 205
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 61
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 51
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 368
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 516
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 329
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 846
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 125
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 184
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 26
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 255
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 22
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 40
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 258
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 4
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 119
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1165
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 1647
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 115
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 777
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 32
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 106
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 110
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 142
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 678
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 89
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 265
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 67
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 101
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 124
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 52
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 2
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 404
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 63
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 56
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1402
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 53
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 54
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 154
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 64
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 877
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 1049
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 213
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 66
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 55
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 751
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 113
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 36
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 259
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 550
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 213
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 63
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 376
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 183
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 251
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 93
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 404
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 64
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 233
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 141
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 2002
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 533
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 86
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 95
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 503
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 64
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 89
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 195
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 58
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 551
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 100
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 345
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 36
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 118
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 311
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 93
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 26
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 247
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 64
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 192
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1552
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 95
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 221
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 110
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 133
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 508
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 707
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 385
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 252
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 37
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 86
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 172
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 442
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 358
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 49
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 433
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 386
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 264
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 56
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 277
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 312
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 41
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 86
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 1674
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 302
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 249
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 114
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 660
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 55
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 217
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 72
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 93
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 594
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 31
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 80
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 52
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 178
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 206
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 130
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 140
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 50
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1082
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 94
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 194
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 101
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 618
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 167
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 541
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 187
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 65
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 36
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 231
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 315
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 122
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 322
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 79
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 110
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 3
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 23
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 375
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 19
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 137
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 94
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 904
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 181
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 45
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 60
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 321
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 34
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 41
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 99
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 76
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 485
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 49
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 646
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 45
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 135
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 190
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 101
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 43
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 89
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 2392
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 118
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 99
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 80
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 357
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 384
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 33
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 45
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 166
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 159
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 175
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 115
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 307
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 392
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 23
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 195
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 182
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 99
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 43
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 172
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 50
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 19
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 32
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 145
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 81
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 481
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 200
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 83
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 107
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 374
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 49
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 115
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 535
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 44
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 162
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 109
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 165
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 22
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 4
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 210
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 37
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 92
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 1736
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 76
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 364
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 199
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 370
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 136
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 35
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 89
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 263
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 104
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 110
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 72
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 64
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 126
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 96
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 38
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 67
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 78
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 402
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 100
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 35
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 47
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 290
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 61
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 40
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 65
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 412
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 49
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 43
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 22
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 135
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 38
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 40
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 72
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 107
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 76
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 560
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 58
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "DC",
+    "TOTAL_HOME_UNITS": 64
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 34
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 590
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 12
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 43
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 940
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 184
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 34
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 101
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 291
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 239
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 71
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 54
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 98
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 132
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 47
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 35
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 116
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 67
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 314
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 114
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 218
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 41
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 297
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 17
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 27
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 34
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 31
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 109
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 228
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 94
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 119
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 68
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 55
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 130
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 2021,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 35
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 171
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 87
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 790
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 63
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 254
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 139
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "HI",
+    "TOTAL_HOME_UNITS": 12
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 26
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 595
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 120
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "KS",
+    "TOTAL_HOME_UNITS": 12
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 39
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 58
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 460
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 281
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "ME",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 401
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 38
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 24
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "MS",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "MT",
+    "TOTAL_HOME_UNITS": 12
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 390
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 19
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 124
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "NM",
+    "TOTAL_HOME_UNITS": 123
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 55
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 680
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 204
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 84
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "OR",
+    "TOTAL_HOME_UNITS": 56
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 353
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "PR",
+    "TOTAL_HOME_UNITS": 8
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 94
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "SD",
+    "TOTAL_HOME_UNITS": 20
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 99
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 201
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 73
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 59
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 116
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 172
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 33
+  },
+  {
+    "YEAR": 2022,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 11
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "AK",
+    "TOTAL_HOME_UNITS": 4
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "AL",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "AR",
+    "TOTAL_HOME_UNITS": 21
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "AZ",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "CA",
+    "TOTAL_HOME_UNITS": 479
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "CO",
+    "TOTAL_HOME_UNITS": 25
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "CT",
+    "TOTAL_HOME_UNITS": 104
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "DE",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "FL",
+    "TOTAL_HOME_UNITS": 224
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "GA",
+    "TOTAL_HOME_UNITS": 117
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "IA",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "ID",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "IL",
+    "TOTAL_HOME_UNITS": 73
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "IN",
+    "TOTAL_HOME_UNITS": 118
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "KY",
+    "TOTAL_HOME_UNITS": 28
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "LA",
+    "TOTAL_HOME_UNITS": 29
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "MA",
+    "TOTAL_HOME_UNITS": 134
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "MD",
+    "TOTAL_HOME_UNITS": 22
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "MI",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "MN",
+    "TOTAL_HOME_UNITS": 46
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "MO",
+    "TOTAL_HOME_UNITS": 85
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "NC",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "ND",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "NE",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "NH",
+    "TOTAL_HOME_UNITS": 13
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "NJ",
+    "TOTAL_HOME_UNITS": 72
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "NV",
+    "TOTAL_HOME_UNITS": 33
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "NY",
+    "TOTAL_HOME_UNITS": 144
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "OH",
+    "TOTAL_HOME_UNITS": 119
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "OK",
+    "TOTAL_HOME_UNITS": 72
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "PA",
+    "TOTAL_HOME_UNITS": 200
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "RI",
+    "TOTAL_HOME_UNITS": 9
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "SC",
+    "TOTAL_HOME_UNITS": 10
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "TN",
+    "TOTAL_HOME_UNITS": 18
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "TX",
+    "TOTAL_HOME_UNITS": 102
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "UT",
+    "TOTAL_HOME_UNITS": 16
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "VA",
+    "TOTAL_HOME_UNITS": 6
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "VT",
+    "TOTAL_HOME_UNITS": 14
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "WA",
+    "TOTAL_HOME_UNITS": 36
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "WI",
+    "TOTAL_HOME_UNITS": 115
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "WV",
+    "TOTAL_HOME_UNITS": 30
+  },
+  {
+    "YEAR": 2023,
+    "STATE": "WY",
+    "TOTAL_HOME_UNITS": 8
+  }
+]

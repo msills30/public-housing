@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang = 'en'>
+
+<head>
+  <!-- Thank you https://stackoverflow.com/questions/31075893/how-to-fix-favicon-ico-error-failed-to-load-resource-neterr-empty-response -->
+  <link rel="shortcut icon" href="#">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title> Public_Housing </title>
+  <style>
+    .jumbotron {
+        text-align: center;
+        font-size: 1.5em;
+    }
+  </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12 jumbotron">
+            <h1> Number of Public Housing per State</h1> 
+            <p>Use the interactive charts below to explore the dataset</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2">
+          <div class="well">
+            <h5 style="font-size: 20px;">States:</h5>
+            <select id="selCount" onchange="UnitsOptionChanged(this.value)"></select>
+          </div>
+    
+        </div>
+    </div>
+    <div class="col-md-5">
+      <div id="bar"></div>
+
+      <script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+
+<script src="./static/js/app_test.js"></script>
+
+
+
+</body>
+
+</html>
